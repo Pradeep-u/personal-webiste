@@ -217,7 +217,7 @@ nav ul li a:hover::after{
     color: red;
     text-decoration: none;
     font-size: 18px;
-    line-height: 16px;
+    line-height: 56px;
     background: white;
     width: 60px;
     height: 60px;
